@@ -10,5 +10,5 @@ This is an overview demonstration of my Microsoft Sentinel SIEM lab setup with i
 ## 🛡️[Objective 3 – Create a Sentinel Collector](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-Collector)
 ## 🛡️[Objective 4 – Query using KQL for events](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-KQL-Query)
 ## 🛡️[Objective 5 – Create a Sentinel Workbook](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-Workbook)
-## 🛡️Objective 6 – Create a watchlist dashboard
+## 🛡️[Objective 6 – Create a watchlist dashboard](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-Watchlist)
 
