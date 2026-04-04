@@ -1,6 +1,8 @@
 # 🛡️ MS-Sentinel-Cybersecurity-SIEM-Demo 🛡️
 
-This is an overview demonstration of my Microsoft Sentinel SIEM lab setup with ingesting logs information, parsing out data for analysis via KQL language and displaying using a simple dashboard of log attempts attacks. This will be a simulated environment in where I log into VM ( Windows 11 - RUAIT-VM and expose VM to internet (Test Purposes) and see if attackers begin to attempt to log into VM from external sources. 
+This is an project demonstration of my Microsoft Sentinel SIEM lab where I set up a basic home SOC in Azure from scratch. Using a free Azure subscription through creating a virtual machine (VM), opening it to the internet as a honeypot, and forwarding logs to a central collector repository. We then integrate Microsoft Sentinel to analyze real-world attack data.
+
+
 
 
 ## 🛠️[Objective 1 – Create a log source for MS Sentinel](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-Log-Source)
