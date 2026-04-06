@@ -1,6 +1,6 @@
 # 🛡️ MS-Sentinel-Cybersecurity-SIEM-Demo 🛡️
 
-This project showcases my Microsoft Sentinel SIEM lab, where I built a basic home Security Operations Center (SOC) in Azure entirely from scratch. Using a free Azure subscription, I created a virtual machine (VM), exposed it to the internet as a honeypot, and directed its logs to a centralized data collection repository. Microsoft Sentinel was then integrated to analyze real-world attack activity and generate meaningful insights via dashboard.
+This project showcases my Microsoft Sentinel SIEM personal lab, where I built a basic home Security Operations Center (SOC) in Azure entirely from scratch. Using a free Azure subscription, I created a virtual machine (VM), exposed it to the internet as a honeypot, and directed its logs to a centralized data collection repository. Microsoft Sentinel was then integrated to analyze real-world attack activity and generate meaningful insights via a dashboard.
 
 
 ## 🛠️[Objective 1.1 – Edit a Azure VM - NSG - expose to Internet](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-AZ-VM-NSG)
