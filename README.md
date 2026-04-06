@@ -10,7 +10,7 @@ This project showcases my Microsoft Sentinel SIEM lab, where I built a basic hom
 ## 🛠️[Objective 1 – Create a log source for MS Sentinel - Logs Analytics Workspace ](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-Log-Source)
 
 
-## 🛠️[Objective 2 – Create a MS Defender Watch List](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-Defender-WL)
+## 🛠️[Objective 2 – Create a Security Event Connector within MS Sentinel](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-Defender-WL)
 ## 🛠️[Objective 3 – Create a Sentinel Collector](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-Collector)
 ## 🛠️[Objective 4 – Query using KQL for events](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-KQL-Query)
 ## 🛠️[Objective 5 – Create a Sentinel Workbook](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-Workbook)
