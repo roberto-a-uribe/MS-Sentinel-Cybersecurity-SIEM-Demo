@@ -2,7 +2,7 @@
 
 This project showcases my Microsoft Sentinel SIEM personal lab, where I built a basic home Security Operations Center (SOC) in Azure entirely from scratch. Using a free Azure subscription, I created a virtual machine (VM), exposed it to the internet as a honeypot, and directed its logs to a centralized data collection repository. Microsoft Sentinel was then integrated to analyze real-world attack activity and generate meaningful insights via a dashboard.
 
-Goals covered :
+📚 Goals covered :
 #### Configuring Log Analytics Workspace
 #### Forwarding logs and integrating with Sentinel
 #### Querying failed login attempts and visualizing attack sources
