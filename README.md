@@ -7,7 +7,7 @@ This project showcases my Microsoft Sentinel SIEM lab, where I built a basic hom
 
 ## 🛠️[Objective 1.2 – Create logs by logging into Azure Test VM](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-AZ-VM-Test)
 
-## 🛠️[Objective 1 – Create a log source for MS Sentinel](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-Log-Source)
+## 🛠️[Objective 1 – Create a log source for MS Sentinel - Logs Analytics Workspace ](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-Log-Source)
 
 
 ## 🛠️[Objective 2 – Create a MS Defender Watch List](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-Defender-WL)
