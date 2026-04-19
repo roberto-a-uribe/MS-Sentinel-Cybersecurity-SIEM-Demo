@@ -9,10 +9,6 @@ This project showcases my Microsoft Sentinel SIEM personal lab, where I built a 
 #### Building an attack map to track real-time hacker activity
 
 
-![MS-Sentinel-Diagram](SOC-DEMO-DIAGRAM.png)
-
-
-
 ## 🛠️[Objective 1.1 – Edit a Azure VM - NSG - expose to Internet](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-AZ-VM-NSG)
 
 ## 🛠️[Objective 1.2 – Create logs by logging into Azure Test VM](https://github.com/roberto-a-uribe/MS-Sentinel-Cybersecurity-SIEM-Demo/tree/main/MS-Sentinel-AZ-VM-Test)
